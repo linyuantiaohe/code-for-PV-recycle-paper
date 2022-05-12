@@ -1,3 +1,4 @@
 # code-for-PV-recycle-paper
 
-This is the main code for paper "Recycling Schemes and Supporting Policies Modeling for Photovoltaic Modules Considering Heterogeneous Risks", which has been submited to Resources Conservation and Recycling, and is currently under review.
+This is the main code for the following paper: 
+Recycling schemes and supporting policies modeling for photovoltaic modules considering heterogeneous risks, Resources, Conservation and Recycling, 2022, Vol. 180:106165 2.
